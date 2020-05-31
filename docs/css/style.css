@@ -2,10 +2,6 @@
 * 1.body background
 * 2.Logo area
 * 3.Coming soon area
-* 4.Right Bar
-* 5.Portfolio section
-* 6.Contact section
-* 7.Notify Bar
 *----------------------------------
 */
 
@@ -93,6 +89,13 @@
 }
 
 /*---------------Logo area-------------------*/
+.logo {
+    text-align: center;
+    color: white;
+    font-size: 48px;
+    font-weight: 600;
+}
+
 .logo img {
     display: block;
     margin: 0 auto;

@@ -167,62 +167,62 @@
 
 @media only screen and (max-height: 2160px) {
     .logo-area {
-        margin-top: 20%;
+        margin-top: 26%;
     }
 }
 
 @media only screen and (max-height: 1600px) {
     .logo-area {
-        margin-top: 12%;
+        margin-top: 18%;
     }
 }
 
 @media only screen and (max-height: 1280px) {
     .logo-area {
-        margin-top: 15%;
+        margin-top: 20%;
     }
 }
 
 @media only screen and (max-height: 900px) {
     .logo-area {
-        margin-top: 12%;
+        margin-top: 16%;
     }
 }
 
 @media only screen and (max-height: 768px) {
     .logo-area {
-        margin-top: 6%;
+        margin-top: 10%;
     }
 }
 
 @media only screen and (max-height: 736px) {
     .logo-area {
-        margin-top: 19%;
+        margin-top: 25%;
     }
 }
 
 @media only screen and (max-height: 720px) {
     .logo-area {
-        margin-top: 6%;
+        margin-top: 10%;
     }
 }
 
 @media screen and (max-height: 670px) {
     @media screen and (max-width: 480px) {
         .logo-area {
-            margin-top: 16%;
+            margin-top: 20%;
         }
     }
 }
 
 @media only screen and (max-height: 600px) {
     .logo-area {
-        margin-top: 7%;
+        margin-top: 12%;
     }
 }
 
 @media only screen and (max-height: 533px) {
     .logo-area {
-        margin-top: 6%;
+        margin-top: 10%;
     }
 }
